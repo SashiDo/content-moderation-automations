@@ -405,7 +405,7 @@ Connect your [SashiDo app with GitHub](https://blog.sashido.io/how-to-start-usin
 
 # What's next?
 
-   - **Admin Panel** - The final touch of our moderation system, where all images in need of moderation are stacked up in a beautiful interface that allows you to make decisions with just a click. - **Coming Soon...** Until release, check the [demo](https://nsfw-demo.sashido.io/moderator)!
+   - [**Admin Panel**](https://github.com/SashiDo/content-moderation-application) - The final touch of our moderation system, where all images in need of moderation are stacked up in a beautiful interface that allows you to make decisions with just a click. Check the demo [here](https://nsfw-demo.sashido.io/moderator).
    
 # Contribution
 
